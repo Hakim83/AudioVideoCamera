@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoCamera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfaf530f70b1ddadf5342a73198b81a6dab5e89c">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dfdeb8f83a34b78e349670e993b89227314b24a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoCamera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f0806479a5784f1d97e0b8a171afc6d95467894">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\AudioVideoCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f7b98904039b9c1fb1e05180edad3441acdeb91a\classes.dex" />
+    </item>
+
+</items>

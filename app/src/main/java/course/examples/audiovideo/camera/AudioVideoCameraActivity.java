@@ -16,9 +16,9 @@ import android.widget.LinearLayout;
 public class AudioVideoCameraActivity extends Activity {
 
 	private static final int PREVIEW_PAUSE = 2000;
-	private static final String TAG = "AudioVideoCameraActivity";
+	private static final String TAG = "AudioVideoCameraActi";
 
-	private Camera mCamera;
+    private Camera mCamera;
 	private LinearLayout mFrame;
 	private SurfaceHolder mSurfaceHolder;
 	private boolean mIsPreviewing;
@@ -26,7 +26,7 @@ public class AudioVideoCameraActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main);
+		setContentView(R.layout.activity_video);
 
 		mFrame = (LinearLayout) findViewById(R.id.frame);
 
